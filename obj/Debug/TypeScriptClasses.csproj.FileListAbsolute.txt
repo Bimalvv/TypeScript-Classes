@@ -1,0 +1,12 @@
+D:\Bimal\Samples\JavaScript\TypeScript\Edx\Module-5\obj\Debug\TypeScriptClasses.csprojResolveAssemblyReference.cache
+D:\Bimal\Samples\JavaScript\TypeScript\Edx\Module-5\bin\TypeScriptClasses.dll.config
+D:\Bimal\Samples\JavaScript\TypeScript\Edx\Module-5\bin\TypeScriptClasses.dll
+D:\Bimal\Samples\JavaScript\TypeScript\Edx\Module-5\bin\TypeScriptClasses.pdb
+D:\Bimal\Samples\JavaScript\TypeScript\Edx\Module-5\obj\Debug\TypeScriptClasses.dll
+D:\Bimal\Samples\JavaScript\TypeScript\Edx\Module-5\obj\Debug\TypeScriptClasses.pdb
+D:\Bimal\Samples\JavaScript\TypeScript\Edx\TypeScript-Classes\bin\TypeScriptClasses.dll.config
+D:\Bimal\Samples\JavaScript\TypeScript\Edx\TypeScript-Classes\bin\TypeScriptClasses.dll
+D:\Bimal\Samples\JavaScript\TypeScript\Edx\TypeScript-Classes\bin\TypeScriptClasses.pdb
+D:\Bimal\Samples\JavaScript\TypeScript\Edx\TypeScript-Classes\obj\Debug\TypeScriptClasses.csprojResolveAssemblyReference.cache
+D:\Bimal\Samples\JavaScript\TypeScript\Edx\TypeScript-Classes\obj\Debug\TypeScriptClasses.dll
+D:\Bimal\Samples\JavaScript\TypeScript\Edx\TypeScript-Classes\obj\Debug\TypeScriptClasses.pdb
